@@ -1,0 +1,14 @@
+{
+    "name": "Book",
+    "alias": "book",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Book\\Providers\\BookServiceProvider",
+        "Modules\\Book\\Providers\\EventServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
